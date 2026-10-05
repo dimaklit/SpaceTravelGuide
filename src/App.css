@@ -2241,7 +2241,7 @@ button {
 .gate-intro h1 {
   margin: 0;
   color: #f0efdf;
-  font: 400 82px/0.96 Georgia, 'Times New Roman', serif;
+  font: 400 64px/0.98 Georgia, 'Times New Roman', serif;
 }
 
 .gate-intro h1 em {
@@ -2402,7 +2402,7 @@ button {
 
 @media (max-width: 900px) {
   .gate-main { width: min(760px, 88vw); grid-template-columns: minmax(0, 1fr) minmax(300px, 0.85fr); gap: 38px; padding: 52px 0; }
-  .gate-intro h1 { font-size: 62px; }
+  .gate-intro h1 { font-size: 56px; }
   .gate-departures { padding-right: 16px; padding-left: 16px; }
   .gate-header, .gate-footer { padding-right: 6vw; padding-left: 6vw; }
   .gate-header-note { display: none; }
@@ -2414,7 +2414,7 @@ button {
   .gate-brand .brand-name { font-size: 12px; }
   .gate-archive-count { font-size: 7px; }
   .gate-main { width: auto; display: flex; flex-direction: column; align-items: stretch; gap: 35px; margin: 0; padding: 58px 20px 42px; }
-  .gate-intro h1 { font-size: 51px; }
+  .gate-intro h1 { font-size: 42px; }
   .gate-eyebrow { max-width: 300px; margin-bottom: 17px; font-size: 8px; }
   .gate-description { max-width: 390px; margin: 18px 0 23px; font-size: 13px; }
   .gate-selected-route { padding-top: 10px; padding-bottom: 10px; }

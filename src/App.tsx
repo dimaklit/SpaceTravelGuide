@@ -304,7 +304,7 @@ function App() {
         <section className="gate-main">
           <div className="gate-intro">
             <p className="gate-eyebrow"><span /> AN ATLAS FOR THE IMPOSSIBLY FAR AWAY</p>
-            <h1>A field guide<br />to <em>elsewhere.</em></h1>
+            <h1>The Backpacker’s<br />Guide to the<br /><em>Multiverse</em></h1>
             <p className="gate-description">Pick a story. Trace its people, ships, and strange detours across the dark. The universe is vast; the first stop is yours to choose.</p>
             <div className="gate-selected-route">
               <span>YOUR DEPARTURE FILE</span>
